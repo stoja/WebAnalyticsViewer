@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAnalyticsViewer", "WebAnalyticsViewer\WebAnalyticsViewer.csproj", "{B10F29AE-2609-4670-BDE0-EF17B758AB36}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://aumel-tfs:8080/
+		SccProjectUniqueName0 = WebAnalyticsViewer\\WebAnalyticsViewer.csproj
+		SccProjectName0 = WebAnalyticsViewer
+		SccAuxPath0 = http://aumel-tfs:8080
+		SccLocalPath0 = WebAnalyticsViewer
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10F29AE-2609-4670-BDE0-EF17B758AB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10F29AE-2609-4670-BDE0-EF17B758AB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10F29AE-2609-4670-BDE0-EF17B758AB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10F29AE-2609-4670-BDE0-EF17B758AB36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
